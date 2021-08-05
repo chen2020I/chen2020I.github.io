@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.cwcn.ml/2021/08/05/music/</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.cwcn.ml/2021/08/02/first/</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -16,14 +9,7 @@
   </url>
   
   <url>
-    <loc>https://www.cwcn.ml/about/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.cwcn.ml/comments/index.html</loc>
+    <loc>https://www.cwcn.ml/2021/08/05/music/</loc>
     
     <lastmod>2021-08-05</lastmod>
     
@@ -37,7 +23,14 @@
   </url>
   
   <url>
-    <loc>https://www.cwcn.ml/movies/index.html</loc>
+    <loc>https://www.cwcn.ml/comments/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.cwcn.ml/about/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
@@ -51,6 +44,13 @@
   </url>
   
   <url>
+    <loc>https://www.cwcn.ml/list/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.cwcn.ml/tags/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.cwcn.ml/list/index.html</loc>
+    <loc>https://www.cwcn.ml/movies/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
