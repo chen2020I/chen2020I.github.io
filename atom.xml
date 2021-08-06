@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My blog</title>
+  
+  <subtitle>new</subtitle>
+  <link href="https://www.cwcn.ml/atom.xml" rel="self"/>
+  
+  <link href="https://www.cwcn.ml/"/>
+  <updated>2021-08-05T11:31:06.000Z</updated>
+  <id>https://www.cwcn.ml/</id>
+  
+  <author>
+    <name>cwc</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>音乐</title>
+    <link href="https://www.cwcn.ml/2021/08/05/music/"/>
+    <id>https://www.cwcn.ml/2021/08/05/music/</id>
+    <published>2021-08-04T16:00:00.000Z</published>
+    <updated>2021-08-05T11:31:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="en"><a href="#en" class="headerlink" title="en"></a>en</h1><div class="aplayer no-destroy" data-id="8107436300" data-server="tencent" data-type="playlist"  data-listFolded="true" data-order="list" data-preload="none" data-mutex="true"  muted></div><h1 id="颜人中"><a href="#颜人中" class="headerlink" title="颜人中"></a>颜人中</h1><div class="aplayer no-destroy" data-id="6901362402" data-server="netease" data-type="playlist"  data-listFolded="true" data-order="list" data-preload="none" data-mutex="true"  muted></div><h1 id="周杰伦"><a href="#周杰伦" class="headerlink" title="周杰伦"></a>周杰伦</h1><div class="aplayer no-destroy" data-id="8107441095" data-server="tencent" data-type="playlist"  data-listFolded="true" data-order="list" data-preload="none" data-mutex="true"  muted></div><h1 id="林俊杰"><a href="#林俊杰" class="headerlink" title="林俊杰"></a>林俊杰</h1><div class="aplayer no-destroy" data-id="8107448354" data-server="tencent" data-type="playlist"  data-listFolded="true" data-order="list" data-preload="none" data-mutex="true"  muted></div> ]]></content>
+    
+    
+    <summary type="html">music</summary>
+    
+    
+    
+    <category term="music" scheme="https://www.cwcn.ml/categories/music/"/>
+    
+    
+    <category term="music" scheme="https://www.cwcn.ml/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My blog</title>
+    <link href="https://www.cwcn.ml/2021/08/02/first/"/>
+    <id>https://www.cwcn.ml/2021/08/02/first/</id>
+    <published>2021-08-01T16:00:00.000Z</published>
+    <updated>2021-08-05T11:31:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    <summary type="html">cwc的新站</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
