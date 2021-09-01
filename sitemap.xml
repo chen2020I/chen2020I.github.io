@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://www.cwcn.ml/comments/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.cwcn.ml/about/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -58,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.cwcn.ml/comments/index.html</loc>
+    <loc>https://www.cwcn.ml/movies/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
@@ -71,17 +78,10 @@
     
   </url>
   
-  <url>
-    <loc>https://www.cwcn.ml/movies/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://www.cwcn.ml/</loc>
-    <lastmod>2021-08-19</lastmod>
+    <lastmod>2021-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://www.cwcn.ml/tags/music/</loc>
-    <lastmod>2021-08-19</lastmod>
+    <lastmod>2021-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -98,7 +98,7 @@
   
   <url>
     <loc>https://www.cwcn.ml/categories/music/</loc>
-    <lastmod>2021-08-19</lastmod>
+    <lastmod>2021-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
